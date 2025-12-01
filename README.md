@@ -1,5 +1,5 @@
 # Predicting Customer Churn at Reder Telecom  
-
+![image alt](https://github.com/GrabieAf/Predicting-Customer-Churn---Reder-Telecom/blob/main/DATASET/Customer%20Churn%20Analysic%20fig%201.png)
 ## About the Project  
 This project addresses one of the most critical challenges in the telecom industry: customer churn. By developing a predictive model to identify customers most at risk of leaving, 
 the analysis provides actionable insights for retention strategies, cost reduction, and revenue growth. It demonstrates how data engineering and machine learning can directly
