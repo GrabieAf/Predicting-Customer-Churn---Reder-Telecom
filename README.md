@@ -7,7 +7,7 @@ influence business outcomes in highly competitive markets.
 
 ---
 
-## Project Story  
+## Project Synopsis  
 When I began this project, I wanted to solve a problem that every telecom company fears: churn. It’s not just a percentage on a dashboard it’s lost trust, lost loyalty, and lost revenue.  
 
 Reder Telecom was struggling. Competitors were offering similar services at aggressive prices, customer preferences were shifting toward personalized experiences, and network performance issues were eroding satisfaction. Retaining customers was becoming harder than ever.  
